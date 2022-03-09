@@ -92,14 +92,5 @@ nnoremap <silent> <Leader>kf :call Cscope('7', expand('<cword>'))<CR>
 nnoremap <silent> <Leader>ki :call Cscope('8', expand('<cword>'))<CR>
 nnoremap <silent> <Leader>ka :call Cscope('9', expand('<cword>'))<CR>
 
-nnoremap <silent> <Leader><Leader>ks :call CscopeQuery('0')<CR>
-nnoremap <silent> <Leader><Leader>kg :call CscopeQuery('1')<CR>
-nnoremap <silent> <Leader><Leader>kd :call CscopeQuery('2')<CR>
-nnoremap <silent> <Leader><Leader>kc :call CscopeQuery('3')<CR>
-nnoremap <silent> <Leader><Leader>kt :call CscopeQuery('4')<CR>
-nnoremap <silent> <Leader><Leader>ke :call CscopeQuery('6')<CR>
-nnoremap <silent> <Leader><Leader>kf :call CscopeQuery('7')<CR>
-nnoremap <silent> <Leader><Leader>ki :call CscopeQuery('8')<CR>
-nnoremap <silent> <Leader><Leader>ka :call CscopeQuery('9')<CR>
 
 
